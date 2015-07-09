@@ -1,0 +1,20 @@
+.bs-example {
+    margin : 20px ;
+}
+
+#sudologo {
+    margin-bottom: 1em;
+}
+
+.companyprofile {
+    font-size: 1.5em;
+    text-shadow: 1px 1px 1px grey;
+}
+
+@media screen and (max-width: 1000px) {
+
+    #sudologo {
+        width: 50%;
+    }
+
+}
